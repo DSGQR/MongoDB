@@ -1,0 +1,30 @@
+{
+  "name": "MongoDB",
+  "version": "1.0.0",
+  "description": "All the News That's Fit to Scrape",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSGQR/MongoDB.git"
+  },
+  "keywords": [],
+  "author": "Daniel Amini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSGQR/MongoDB/issues"
+  },
+  "homepage": "https://github.com/DSGQR/MongoDB#readme"
+}
